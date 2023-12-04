@@ -1,9 +1,18 @@
 package baekjoon;
 
+import java.util.Scanner;
+
 public class Q1001 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int A = 0;
+		int B = 0;
+		
+		A = sc.nextInt();
+		B = sc.nextInt();
+		
+		System.out.println(A-B);
 
 	}
 
