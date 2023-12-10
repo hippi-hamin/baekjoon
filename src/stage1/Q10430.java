@@ -1,4 +1,8 @@
+<<<<<<< HEAD:src/stage1/Q10430.java
 package stage1;
+=======
+package baekjoon;
+>>>>>>> origin/main:src/baekjoon/Q10430.java
 
 import java.util.Scanner;
 
