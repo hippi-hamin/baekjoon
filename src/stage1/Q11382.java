@@ -6,10 +6,10 @@ public class Q11382 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        int A = sc.nextInt();
-        int B = sc.nextInt();
-        int C = sc.nextInt();
+        long A = sc.nextLong();
+        long B = sc.nextLong();
+        long C = sc.nextLong();
 
-        System.out.println(A + B + C);
+        System.out.println(A+B+C);
     }
 }
